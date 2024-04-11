@@ -1,2 +1,2 @@
 # versionFinal
-Version final del proyexto con cambios aprobados
+Version final del proyecto con cambios aprobados
